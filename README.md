@@ -13,6 +13,7 @@ This assignment will walk you through a few small activities to familiarize you 
 -    Implement escape sequences in strings for special characters.
 -    Use template literals for string interpolation and multi-line strings.
 -    Create effective documentation through the use of comments.
+
 ## Submission
 Submit your completed lab using the Start Assignment button on the assignment page in Canvas.
 Your submission should include:
